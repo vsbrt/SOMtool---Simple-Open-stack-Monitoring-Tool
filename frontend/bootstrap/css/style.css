@@ -1,0 +1,19 @@
+#t1{
+padding: 15px;
+background-color: #eeeeee;
+border-bottom: solid 1px black;
+}
+
+#home{
+line-height: 150%;
+}
+
+footer
+{
+text-align: center;
+background-color: lavender;
+border-top: solid 1px black;
+bottom: 0;
+width: 100%;
+position: relative;
+}
